@@ -1,0 +1,15 @@
+{
+  "name": "eu-mysql-test",
+  "version": "1.0.0",
+  "description": "Trying to use mysql to connect to mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "author": "",
+  "license": "ISC"
+}
